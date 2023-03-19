@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fancyText {
+  
+  font-family: 'Yellowtail','Bradley Hand';
+}
+
+h3{
+  border: 2px solid black;
+}
+
